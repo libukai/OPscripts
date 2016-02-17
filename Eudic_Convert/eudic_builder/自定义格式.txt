@@ -1,0 +1,3 @@
+a@explain
+b@explain<br>newline
+c@explain<a href='dic://a'>link</a>
