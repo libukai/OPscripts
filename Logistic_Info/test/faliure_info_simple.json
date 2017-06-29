@@ -1,0 +1,15 @@
+{
+  "showapi_res_code": 0,
+  "showapi_res_error": "",
+  "showapi_res_body": {
+    "mailNo": "968018776111",
+    "ret_code": 0,
+    "flag": false,
+    "status": 1,
+    "tel": "400-889-5543",
+    "expSpellName": "shentong",
+    "expTextName": "申通快递",
+    "noReg": false,
+    "msg": "查询失败,当前无物流信息!"
+  }
+}

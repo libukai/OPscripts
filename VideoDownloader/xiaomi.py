@@ -2,13 +2,13 @@
 # @Author: xiaobuyao
 # @Date:   2016-09-20 15:55:16
 # @Last Modified by:   xiaobuyao
-# @Last Modified time: 2016-09-21 11:39:13
+# @Last Modified time: 2016-11-11 22:54:21
 
 import requests
 from multiprocessing import Pool
 from multiprocessing.dummy import Pool as ThreadPool
 import os
-import shutil
+import shutil   
 
 def cliplist(roomid):
     originallist = 'http://playback.ks.zb.mi.com/record/live/' + str(roomid) + '/hls/' + str(roomid) + '.m3u8'

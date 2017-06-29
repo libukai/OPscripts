@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # @Author: Libukai
 # @Date:   2015-09-10 15:28:19
-# @Last Modified by:   Libukai
-# @Last Modified time: 2016-02-17 15:24:39
+# @Last Modified by:   xiaobuyao
+# @Last Modified time: 2016-11-12 15:30:15
 
 '''
 1. 清洗微博 URL 地址，获取用户 ID 关键词。然后根据关键词类型，调用不同的开放平台接口，获取用户账号详细信息
@@ -52,7 +52,7 @@ def getinfo(url_key):
     '''
     cookies = {'cookie':'_s_tentry=sports.sina.com.cn; Apache=5684546479023.993.1421292196940; SINAGLOBAL=5684546479023.993.1421292196940; login_sid_t=cb5d7743dab7af103e334087d3ebb9cd; ULV=1452486293137:1:1:1:5684546479023.993.1421292196940:; myuid=3862957272; SUHB=0sqwhJQB-BiWVh; wvr=6; SUB=_2AkMh9p1gdcPhrAJXm_EWy2PlaoxH-jjGieTAAX_rJkMxanB-7TxnqLfNgt9GN-NkSbyzTl85MEeZDkF1; SUBP=0033WrSXqPxfM72wWs9jqgMF55529P9D9W5dWFUjmBXWy6PCSKzVIgeW5JpX5KMt; UOR=sports.sina.com.cn,widget.weibo.com,www.google.com; JSESSIONID=01AEDDFBDF05817248AC5A84A1828CB8'}
     proxy = {'http': random.choice(proxies)}
-    appkey = appkey_list[1]
+    appkey = appkey_list[2]
     if re.match(r'\d{10}', url_key):
         params = {'source': appkey, 'uid': url_key}
         user_info = requests.get('https://api.weibo.com/2/users/show.json', params=params, proxies=proxy, cookies=cookies).json()
@@ -63,7 +63,7 @@ def getinfo(url_key):
                 user_url = 'http://weibo.com/' + user_info['domain']
             clean_info = [url_key, user_url, user_info['screen_name'], user_info['id']]            
         except:
-            clean_info = [url_key, 'https://weibo.com/%s' % url_key, '注意：账号异常', '注意：账号异常']
+            clean_info = [url_key, 'http://weibo.com/%s' % url_key, '注意：账号异常', '注意：账号异常']
     else:
         params = {'source': appkey, 'domain': url_key}
         user_info = requests.get('https://api.weibo.com/2/users/domain_show.json', params=params, proxies=proxy, cookies=cookies).json() 

@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 # @Author: Libukai
 # @Date:   2016-01-22 20:29:35
-# @Last Modified by:   Libukai
-# @Last Modified time: 2016-01-26 17:36:09
+# @Last Modified by:   xiaobuyao
+# @Last Modified time: 2016-09-20 19:33:30
 
 
 from requests import Request, Session
@@ -17,4 +17,4 @@ req = Request('GET', url=url, params=params)
 prepped = s.prepare_request(req)
 resp = s.send(prepped)
 
-print(resp.text)
+

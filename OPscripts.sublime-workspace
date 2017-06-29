@@ -1,0 +1,910 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m3u8",
+				"m3u8_obj\tstatement"
+			],
+			[
+				"che",
+				"check_time_down"
+			],
+			[
+				"file",
+				"file_list\tstatement"
+			],
+			[
+				"re",
+				"record\tforstmt"
+			],
+			[
+				"recor",
+				"recordid\tstatement"
+			],
+			[
+				"dat",
+				"data_file\tforstmt"
+			],
+			[
+				"fl",
+				"file_list\tstatement"
+			],
+			[
+				"all",
+				"all_count\tstatement"
+			],
+			[
+				"count",
+				"count_all\tstatement"
+			],
+			[
+				"fil",
+				"filename\tforstmt"
+			],
+			[
+				"rf",
+				"refresh_all_file\tfunction"
+			],
+			[
+				"new_",
+				"new_online_info\tstatement"
+			],
+			[
+				"get_",
+				"get_online_info\tfunction"
+			],
+			[
+				"reco",
+				"record_info\tforstmt"
+			],
+			[
+				"red",
+				"recordid_list\tstatement"
+			],
+			[
+				"get",
+				"get_online_info\tfunction"
+			],
+			[
+				"mai",
+				"mailNo_list\twithstmt"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"list",
+				"listfile\tstatement"
+			],
+			[
+				"or",
+				"originallist\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "VideoDownloader/cntv.py",
+			"settings":
+			{
+				"buffer_size": 1885,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/HTML.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/HTML.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/HTML.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"pr",
+				"Pretty JSON: Validate"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Validate"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"omini",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ssm",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"eanbla",
+				"Package Control: Enable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"brower",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"broser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"insatl",
+				"Package Control: Install Package"
+			],
+			[
+				"en",
+				"Anaconda: Vagrant Enable"
+			],
+			[
+				"eanble",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"paceage ",
+				"Package Control: List Packages"
+			],
+			[
+				"colo",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"json",
+				"Pretty JSON: Validate"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"git remote",
+				"Git: Remote"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"git inti",
+				"Git: Init"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"sch",
+				"Schemr: List all schemes"
+			],
+			[
+				"scher",
+				"Schemr: List all schemes"
+			],
+			[
+				"",
+				"Package Control: Disable Package"
+			],
+			[
+				"enabe",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"sublimerepl:pt",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 207.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import sys; print(sys.version)",
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import os; os.environ['PATH'] "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/likai/Github/OPscripts",
+		"/Users/likai/Github/OPscripts/ShortUrl",
+		"/Users/likai/Github/OPscripts/VideoDownloader"
+	],
+	"file_history":
+	[
+		"/Users/likai/Github/OPscripts/ShortUrl/test.py",
+		"/Users/likai/Github/OPscripts/ShortUrl/teaadsf.py",
+		"/Users/likai/Github/OPscripts/ShortUrl/tewst1.py",
+		"/Users/likai/Library/Eudb_en/07.css",
+		"/Users/likai/Downloads/07.css",
+		"/Users/likai/Library/Eudb_en/07.mdd",
+		"/Users/likai/Library/Eudb_en/07.mdx",
+		"/Users/likai/.bash_profile",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/Python",
+		"/Users/likai/Downloads/使用说明.txt",
+		"/Users/likai/Downloads/rootdroid170328oasis/readme.txt",
+		"/Users/likai/Downloads/2017-05-13.mrstd",
+		"/Users/likai/Downloads/850 (2).m3u8",
+		"/Users/likai/Github/OPscripts/VideoDownloader/test.py",
+		"/Users/likai/Github/OPscripts/README.md",
+		"/Users/likai/Github/OPscripts/XiaomiZhibo/filelist.txt",
+		"/Users/likai/Github/OPscripts/XiaomiZhibo/test.py",
+		"/Users/likai/Github/OPscripts/XiaomiZhibo/clip.py",
+		"/Users/likai/Github/OPscripts/XiaomiZhibo/flielist.txt",
+		"/Users/likai/Downloads/1200.m3u8",
+		"/Users/likai/Downloads/850.m3u8",
+		"/Users/likai/Github/OPscripts/ShortUrl/shortUrl.py",
+		"/Users/likai/Library/Mobile Documents/iCloud~run~surge/Documents/eee24ff0.conf",
+		"/Applications/MWeb.app/Contents/Resources/PreviewAsset/previewCSS/mweb-github.css",
+		"/Users/likai/Downloads/IHG.html",
+		"/Users/likai/Downloads/IHG® Rewards Club _ Account Management_files/home.js",
+		"/Users/likai/Library/Thunderbird/Profiles/j2c9v81d.default/Chrome/userChrome.css",
+		"/Users/likai/Github/OPscripts/Logistic_Info/main.py",
+		"/Users/likai/Library/Mobile Documents/iCloud~run~surge/Documents/Main.conf",
+		"/Users/likai/Library/Thunderbird/Profiles/j2c9v81d.default/prefs.js",
+		"/Users/likai/Library/Thunderbird/profiles.ini",
+		"/Users/likai/Library/Thunderbird/Profiles/j2c9v81d.default/mailViews.dat",
+		"/Users/likai/Library/Thunderbird/Profiles/j2c9v81d.default/logins.json",
+		"/Users/likai/Library/Thunderbird/Profiles/j2c9v81d.default/folderTree.json",
+		"/Users/likai/Library/Thunderbird/Profiles/j2c9v81d.default/directoryTree.json",
+		"/Users/likai/Library/Thunderbird/Profiles/j2c9v81d.default/compatibility.ini",
+		"/Users/likai/Library/Thunderbird/Profiles/j2c9v81d.default/addons.json",
+		"/Users/likai/Downloads/UserChrome.css",
+		"/Users/likai/Library/Thunderbird/Profiles/j2c9v81d.default/UserChrome.css",
+		"/Users/likai/Library/Mobile Documents/iCloud~run~surge/Documents/Default.conf",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/return.txt",
+		"/Users/likai/Downloads/Default.conf",
+		"/Users/likai/Downloads/id.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/data.py",
+		"/Users/likai/Downloads/未接电话手机号.txt",
+		"/Users/likai/Downloads/注册码.txt",
+		"/Users/likai/Downloads/PhoneNumber.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/1127.txt",
+		"/Users/likai/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/346355BC-1459-41D4-B61A-721825C07FC1/2016-11-23.dat",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/1123.txt",
+		"/Users/likai/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/1B5A5183-BE8F-4B5E-8E6A-0D989E269F47/2016-11-28.dat",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/1130.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test.py",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/1129.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/1128.txt",
+		"/Users/likai/Downloads/OrderInfo.txt",
+		"/Users/likai/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/78F7C6F1-648D-445E-95E6-1F2EE92323CD/2016-11-27-1.dat",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/Terminal/iTerm.sh",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/2016-11-25-1.dat",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/2016-11-25-2.dat",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/1125.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/1127.txt",
+		"/Users/likai/Downloads/1125.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/1126.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/1125.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/1126.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/2016-11-26.dat",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/1122.txt",
+		"/Users/likai/Downloads/2016-11-19.html",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/1124.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/2016-11-23.dat",
+		"/Users/likai/Downloads/2016-11-24-1.dat",
+		"/Users/likai/Downloads/2016-11-24.dat",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/1124.txt",
+		"/Users/likai/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/A6D4F53B-1748-4BB3-8C11-3F3B73FDA052/2016-11-24.dat",
+		"/Users/likai/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/4216F2F1-6BD4-47F9-8808-E846CD9F0780/2016-11-23.dat",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/1118.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/1118.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/time.py",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/1119.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/1120.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/1121.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/1122.txt",
+		"/Users/likai/Downloads/000101-安装-1.html",
+		"/Users/likai/Downloads/test.py",
+		"/Users/likai/Github/OPscripts/Get_Webio_User_Info/getinfo.py",
+		"/Users/likai/Downloads/get-pip.py",
+		"/Users/likai/Downloads/faliure_check.txt",
+		"/Users/likai/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/35140A63-C105-4E18-A2F9-52D7841229C5/2016-11-22.dat",
+		"/Users/likai/Github/OPscripts/Logistic_Info/test/failure_case.txt",
+		"/Users/likai/Downloads/failure_case.txt",
+		"/Users/likai/Downloads/快递单号.txt",
+		"/Users/likai/Library/Containers/com.coderforart.MWeb/Data/Documents/themes/PreviewCSS/weixin.css",
+		"/Users/likai/Github/OPscripts/Excel_Editor/excel_realign.py",
+		"/Users/likai/Github/OPscripts/Logistic_Info/simple/success_info_simple.json",
+		"/Users/likai/Github/OPscripts/Logistic_Info/simple/faliure_info_simple.json",
+		"/Users/likai/Downloads/1119.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/success_info_simple.json",
+		"/Users/likai/Github/OPscripts/Logistic_Info/faliure_info_simple.json",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/20161120.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/20161119.txt",
+		"/Users/likai/Github/OPscripts/Logistic_Info/recordid/OrderInfo.txt",
+		"/Users/likai/Downloads/info_simple.json",
+		"/Users/likai/Github/OPscripts/Eudic_Convert/convert.py",
+		"/Users/likai/Downloads/中通3000+4000+2000单.dat.txt",
+		"/Users/likai/Downloads/2016-11-18.mdb",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/User/Color Highlighter/themes/Monokai Bright.tmTheme",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/User/Monokai (SL).tmTheme",
+		"/Users/likai/Downloads/info.json",
+		"/Users/likai/Library/Containers/com.coderforart.MWeb/Data/Documents/themes/PreviewCSS/github.css",
+		"/Users/likai/Downloads/000101-测试.html",
+		"/Users/likai/Library/Containers/com.coderforart.MWeb/Data/Documents/themes/PreviewCSS/sample-css.css",
+		"/Users/likai/Dropbox/客服文档/weixin_menu.json",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/Monokai Extended/Monokai Extended Origin.tmTheme",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
+		"/Users/likai/Dropbox/客服文档/00常见/0001常见问题/000101-安装.md",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/User/Monokai-custom.tmtheme",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/User/Color Highlighter/themes/Monokai Extended Bright.tmTheme",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/User/Material-Nil.sublime-theme",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-build",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/User/html.sublime-build",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+		"/Users/likai/Library/Application Support/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"11",
+			"12",
+			"15",
+			"16",
+			"finallist",
+			"playlist",
+			"filelink",
+			"roomid",
+			"originallist",
+			"send",
+			"已",
+			"lsit",
+			"tree",
+			"16",
+			"263",
+			"google",
+			"韦丹丹",
+			"532953773120",
+			"532953769796",
+			".*订单号.*\\n",
+			".*(\\d{12})",
+			"(\\d{4}-\\d{2}-\\d{2})\\t",
+			"\\|",
+			"11-18",
+			"未入库",
+			"没查到",
+			"未入库",
+			"没查到",
+			"没",
+			"未入库",
+			"没查到",
+			"(\\d{12}).*",
+			"    未入库\\!{3}",
+			"\\n.*[已|配|没].*",
+			"未入库",
+			"!!!\n",
+			"重复",
+			".*(\\d{12}).*",
+			"(\\d{12}).*",
+			"    没查到\\?\\?\\?",
+			"    没查到???",
+			"\\n.*[配送中|已送达|未入库].*",
+			".*(\\d{12}).*",
+			"已送达!!!",
+			".*(\\d{12})",
+			".*\\d{12}",
+			".*(\\d{12}).*",
+			"1\t\"532921487693\"",
+			"配送中",
+			"已送达",
+			".*(\\d{12}).*",
+			"已送达",
+			".*(\\d{12}).*",
+			"open(filename, 'r')",
+			"refresh_file_content",
+			"\"",
+			"\\d{1,4}\\t\"",
+			"host",
+			"532953564267",
+			"curly",
+			"brackethighlighter",
+			"h2",
+			"shadowsocks",
+			"direct",
+			"apple",
+			"theme",
+			"originallist",
+			"147",
+			"/!/[MBA*/]/(",
+			"![MBA*]("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"13",
+			"14",
+			"11",
+			"12",
+			"originallist",
+			"",
+			"\\1 ",
+			" \\| ",
+			"\\| ",
+			"\\1",
+			"",
+			"\\1",
+			"",
+			"\\1",
+			"",
+			"http://playback.ks.zb.mi.com/record/live/2303394_1471519361/hls/147",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "VideoDownloader/cntv.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_php_angle",
+								"bh_php_angle_center",
+								"bh_php_angle_open",
+								"bh_php_angle_close",
+								"bh_php_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								225,
+								5,
+								2,
+								17,
+								40,
+								41,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 170.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 170.0
+	},
+	"output.git-init":
+	{
+		"height": 170.0
+	},
+	"output.git-push":
+	{
+		"height": 170.0
+	},
+	"output.git-remote":
+	{
+		"height": 170.0
+	},
+	"pinned_build_system": "Packages/User/HTML.sublime-build",
+	"project": "OPscripts.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Downloads/temp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
